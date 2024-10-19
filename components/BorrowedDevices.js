@@ -52,7 +52,7 @@ export default function BorrowedDevices() {
           ))}
         </ul>
       ) : (
-        <p>You haven't borrowed any devices yet.</p>
+        <p>You haven&#39t borrowed any devices yet.</p>
       )}
     </div>
   );
